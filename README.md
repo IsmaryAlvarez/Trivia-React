@@ -1,5 +1,5 @@
-Trivia-React
-¿Quieres probar algún nuevo cocktail? Solo entra a nuestra App y encuentra tu bebida ideal para esos momentos especiales.
+## Trivia-React
+Para pasar el tiempo.
 
 ![alt text](http://i66.tinypic.com/2qszdc5.jpg "Responsive View")
 
